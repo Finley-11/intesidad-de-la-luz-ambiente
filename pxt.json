@@ -1,10 +1,11 @@
 {
-    "name": "Intesidad de la luz ambiente",
+    "name": "Temperatura optima de una nevera",
     "description": "",
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "maqueen": "github:dfrobot/pxt-maqueen#v1.7.2"
     },
     "files": [
         "main.blocks",
